@@ -8,7 +8,7 @@ This repository documents my volunteer work with various organizations, particul
 
 All of the links are external links that will navigate you to a new webpage.
 
-## 🏫 Teaching & Workshops
+## Teaching & Workshops
 
 ### Charlotte Mecklenburg Library Codelab
 **What is Library Codelab?** Library Codelab is a technology series based on the concepts of accessibility, collaboration and fun. We offer resources, motivation and access to a community of coders in a non-intimidating environment. Read more at [Library Codelab: Monthly Coding Class for Adults](https://www.cmlibrary.org/blog/library-codelab-monthly-coding-class-adults)
@@ -41,6 +41,6 @@ This mentorship opportunity was organized by [Accessibility NextGen](https://www
   
 ---
 
-💌 This work is driven by the belief that everyone deserves access to technology education and that accessibility makes everything better for everyone.
+This work is driven by the belief that everyone deserves access to technology education and that accessibility makes everything better for everyone.
 
-📫 Interested in collaborating on community initiatives? [Contact me](mailto:welcome@louiseclarka11y.com)
+Interested in collaborating on community initiatives? [Contact me](mailto:welcome@louiseclarka11y.com)
